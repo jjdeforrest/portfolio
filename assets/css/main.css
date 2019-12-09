@@ -2609,3 +2609,8 @@ input, select, textarea {
 				} */
 /* 
 	} */ */
+
+
+#navbar {
+	float: left;
+}
